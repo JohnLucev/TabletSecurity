@@ -1,0 +1,17 @@
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\bin\Debug\TabletSecurity2.exe.config
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\obj\Debug\TabletSecurity2.Form1.resources
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\obj\Debug\TabletSecurity2.Resources.resources
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\obj\Debug\TabletSecurity2.vbproj.GenerateResource.Cache
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\bin\Debug\TabletSecurity2.exe
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\bin\Debug\TabletSecurity2.pdb
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\bin\Debug\TabletSecurity2.xml
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\bin\Debug\Kepware.ClientAce.DA_Junction.dll
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\bin\Debug\Kepware.ClientAce.BrowseControls.dll
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\bin\Debug\Kepware.ClientAce.OpcClient.dll
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\bin\Debug\Kepware.ClientAce.DA_Junction.xml
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\bin\Debug\Kepware.ClientAce.BrowseControls.xml
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\bin\Debug\Kepware.ClientAce.OpcClient.xml
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\obj\Debug\TabletSecurity2.exe
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\obj\Debug\TabletSecurity2.xml
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\obj\Debug\TabletSecurity2.pdb
+C:\Users\lucev\Desktop\TabletSecurity2\TabletSecurity2\obj\Debug\TabletSecurity2.vbprojResolveAssemblyReference.cache
